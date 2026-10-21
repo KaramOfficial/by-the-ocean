@@ -1,0 +1,227 @@
+---
+pagetitle: "By The Ocean | Luxury Picnics & Event Styling in Halifax"
+format:
+  html:
+    theme: none
+    css: editor.css
+    embed-resources: true
+    toc: false
+    section-divs: false
+    page-layout: full
+---
+
+<!--
+════════════════════════════════════════════════════════════════════
+  ✏️  HOW TO EDIT THIS PAGE (please read — it takes 30 seconds)
+
+  • You only ever need to change the PLAIN WORDS below.
+  • Lines that start with  :::  or sit between the --- marks at the
+    very top are the machinery. Leave those exactly as they are.
+  • In RStudio, use the "Visual" editor tab — it looks like a word
+    processor and you can just click and type.
+  • When you're done, click RENDER. A finished web page (index.html)
+    appears right next to this file. That file IS the new homepage.
+  • The full step-by-step is in README.md in this same folder.
+════════════════════════════════════════════════════════════════════
+-->
+
+::: {.topbar}
+![By The Ocean logo](../assets/logo.jpg){.logo}
+
+::: {.brand}
+By The Ocean
+
+[PICNICS · EVENTS · DÉCOR]{.brand-sub}
+:::
+
+[Enquire on Instagram](https://www.instagram.com/events.bytheocean/){.btn .btn-small}
+:::
+
+::: {.hero}
+# [your moments,]{.l1} [made unforgettable]{.l2}
+
+## Luxury picnics & thoughtfully styled celebrations.
+
+Custom setups and personal details, styled for your celebration in Halifax, Nova Scotia — and beyond.
+
+[Let's plan your moment](https://www.instagram.com/events.bytheocean/){.btn}
+[Find your experience](#experiences){.btn-link}
+
+![A styled picnic table by the ocean](../assets/hubbards-bachelorette.jpg){.hero-photo}
+
+::: {.badge}
+Now booking **2026**
+:::
+:::
+
+::: {.strip}
+intimate. timeless. beautifully you.
+:::
+
+::: {#experiences .section}
+## A setting that feels like you.
+
+From a picnic for two to a gathering with your favourite people — every detail styled around your occasion.
+
+::: {.cards}
+::: {.card}
+### Luxury picnics
+
+Custom picnic setups for romantic dates and special celebrations.
+
+[Dream up your picnic](https://www.instagram.com/events.bytheocean/)
+:::
+
+::: {.card}
+### Event styling
+
+A considered look and feel for your gathering, from birthday celebrations and bachelorettes to wellness events.
+
+[Tell us your vision](https://www.instagram.com/events.bytheocean/)
+:::
+
+::: {.card}
+### Décor & details
+
+Thoughtful, custom décor and finishing touches that make a space feel personal.
+
+[Make it yours](https://www.instagram.com/events.bytheocean/)
+:::
+:::
+:::
+
+::: {.section}
+## Our work
+
+### Moments we've styled.
+
+Real setups, real shores — a few favourites from our Instagram, @events.bytheocean.
+
+::: {.gallery}
+::: {.card}
+[![Bachelorette in Hubbards](../assets/hubbards-bachelorette.jpg)](https://www.instagram.com/events.bytheocean/p/DafzlIUlZd6/)
+
+**Bachelorette in Hubbards**
+
+Pink table for eight on a sunny deck, parasols and woven cushions.
+:::
+
+::: {.card}
+[![Lakeside picnic, Halifax](../assets/lakeside-halifax.jpg)](https://www.instagram.com/events.bytheocean/p/DaoCPtFIvzx/)
+
+**Lakeside picnic, Halifax**
+
+A pink candle, wildflowers and the swans drifting by.
+:::
+
+::: {.card}
+[![25th by the coast](../assets/coastal-birthday.jpg)](https://www.instagram.com/events.bytheocean/p/DO-ywhTFfM0/)
+
+**25th by the coast**
+
+Blue goblets, gold bows and a basket of blooms for a coastal birthday.
+:::
+
+::: {.card}
+[![A summer table, Port Williams](../assets/port-williams.jpg)](https://www.instagram.com/events.bytheocean/p/DaYOahMKsQz/)
+
+**A summer table, Port Williams**
+
+Wildflowers and woven placemats on the lawn.
+:::
+
+::: {.card}
+[![Beach picnic, Rainbow Haven](../assets/rainbow-haven.jpg)](https://www.instagram.com/events.bytheocean/p/DYcuuLRotIT/)
+
+**Beach picnic, Rainbow Haven**
+
+Deck chairs and a fringed umbrella, ready for a slow afternoon.
+:::
+
+::: {.card}
+[![By the shore, Halifax](../assets/halifax-styling.jpg)](https://www.instagram.com/events.bytheocean/p/DZVgAjeIgs8/)
+
+**By the shore, Halifax**
+
+A quiet walk past the setup, umbrella up and chairs waiting.
+:::
+
+::: {.card}
+[![Found on the shore](../assets/shore-shell.jpg)](https://www.instagram.com/events.bytheocean/p/DYsPqRMoorg/)
+
+**Found on the shore**
+
+Little shells, gathered on the sand.
+:::
+:::
+:::
+
+::: {.section .band}
+## For the dates you'll remember.
+
+The big milestones, the quieter celebrations — and the people who make them yours.
+
+Birthdays ✧ Bachelorettes ✧ Proposals ✧ Date nights ✧ Wellness events
+
+**Something else in mind? We'd love to hear it.**
+:::
+
+::: {.section}
+## A lovely moment starts with a hello.
+
+::: {.cards}
+::: {.card}
+### First, a little hello
+
+Tell us what you're imagining. Send us your occasion, date, guest count and location to begin.
+:::
+
+::: {.card}
+### Then, the lovely details
+
+Let's make it personal. Share the colours and inspiration you love — we'll shape a setting that feels like you.
+:::
+
+::: {.card}
+### And finally, your moment
+
+Bring your people together. An intimate setting, thoughtfully styled for your occasion.
+:::
+:::
+:::
+
+::: {.section}
+## A few things you might wonder.
+
+If you don't see your question here, just send us a note.
+
+### How do I book?
+
+All bookings start with a DM on Instagram to @events.bytheocean — just send your date, occasion, guest count and location.
+
+### Where do you create your setups?
+
+We're based in Halifax, Nova Scotia, and serve Halifax and beyond — just share your location in your message.
+
+### How can I find out about pricing?
+
+Every setup is custom, so for pricing, DM us your plans — guest count, location and any styling inspiration.
+
+### Do you style more than picnics?
+
+Yes — we also style birthdays, bachelorettes, proposals, date nights and wellness events.
+
+### Are you booking 2026 events?
+
+We are! Send your preferred date and a little about your celebration on Instagram to ask about availability.
+:::
+
+::: {.section .final}
+## Let's make something lovely.
+
+Tell us what you're celebrating — all inquiries begin in our Instagram DMs.
+
+[Message @events.bytheocean](https://www.instagram.com/events.bytheocean/){.btn}
+
+Halifax, Nova Scotia & beyond
+:::

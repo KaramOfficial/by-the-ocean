@@ -63,6 +63,16 @@ http://localhost:8000 (and http://localhost:8000/v2/ for the variant).
 8. After pushing, **verify the live URL actually updated** (hard-refresh;
    GitHub Pages/CDN can lag a minute or two) before saying an edit is done.
 
+## No-code option: the Quarto editor (for non-technical editing)
+
+The `editor/` folder contains a word-processor version of the homepage
+(`index.qmd` + `editor.css` + its own plain-English `README.md`). Opened
+in RStudio's Visual editor, all the site's words are plain editable text;
+clicking **Render** produces a finished single-file `index.html`
+(photos embedded). That rendered file can replace the repo-root
+`index.html` to publish. Caveat: it covers the main version only — the
+`/v2/` variant shares the same words and must be mirrored by hand.
+
 ## A ready-made prompt for your AI
 
 > You are helping me edit a small business website. The repo is
